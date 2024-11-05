@@ -1,0 +1,66 @@
+nav{
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuk9IUCEZOlh6CL5HgAbCDEcfhqbV0zGkEQ&s);
+ background-repeat: repeat-x;
+ opacity: 0.5px;
+color: aliceblue;
+ text-shadow: ivory;
+ text-align: center;
+ text-decoration: underline;
+}
+#parthu{
+   font-size: large;
+   color: red;
+    text-align: right;
+    text-decoration: none;
+}
+#kittu{
+   font-size: large;
+   color: red;
+    text-align: center;
+text-decoration: none;
+}
+#tinku{
+   font-size: large;
+   color: red;
+    text-align: left;
+    text-decoration: none;
+}
+ .kkkk{
+    height: 100px;
+    font-size: larger;
+    text-align: center;
+    background-color: coral;
+    color: black; 
+ }
+ .sampath{
+    width: 250px;
+    height: 300px;
+    border: 50px;
+   
+    background-color: aquamarine;
+    padding: 10px 10px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+ }
+ #jjj{
+    text-align: center;
+    text-decoration: underline;
+ }
+ .Gold{
+    width: 250px;
+    height: 300px;
+    border: 50px;
+    background-color: aquamarine;
+    padding: 10px 10px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+ }
+ #lll{
+    text-align: center;
+    text-decoration: underline;
+ }
+  
